@@ -3,6 +3,6 @@
 Repositório com arquivos utilizados em atividades na Ambiente & Sociedade.
 
 
-## Conformidade com a ciência aberta
+## Formulário de conformidade com a Ciência Aberta e Ética na Pesquisa
 
-- Formulário disponível no diretório: `conformidade_com_a_ciencia_aberta`.
+- [Leia mais aqui](https://github.com/Ambiente-Sociedade/arquivos/tree/main/conformidade_com_a_ciencia_aberta#readme)
